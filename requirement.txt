@@ -1,0 +1,12 @@
+# 1. Exact version (Best practice for production)
+requests==2.31.0
+pandas==2.1.4
+
+# 2. Minimum version required
+numpy>=1.26.0
+
+# 3. Compatible version (Any 2.X version >= 2.4)
+scikit-learn~=2.4.0
+
+# 4. No version specified (Grabs the latest available version)
+matplotlib
